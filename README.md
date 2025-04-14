@@ -17,19 +17,17 @@
 
 Este proyecto forma parte del Módulo 4 del Máster de Data Analytics. Consiste en la resolución de 64 consultas SQL sobre una BBDD relacional de alquiler de películas. A través de este proyecto se han puesto en práctica habilidades técnicas y analíticas en SQL.
 
-## 🗂️ Estructura 
+## 🗂️ Estructura
 
-Cada archivo SQL corresponde a una consulta numerada y descrita según su función. Muestra la evolución del aprendizaje y la complejidad de las preguntas resueltas.
+Cada archivo SQL corresponde a una consulta numerada y titulada según su propósito. La organización refleja la evolución del aprendizaje, desde consultas básicas hasta operaciones más complejas y analíticas.
 
 ## ⚙️ Instalación y requisitos
 
-Para poder ejecutar y revisar este proyecto se recomienda tener instalado:
+Para ejecutar y revisar este proyecto de forma local, se recomienda tener instaladas las siguientes herramientas:
 
-🛠️ DBeaver: como cliente de gestión de bases de datos SQL. Puedes descargarlo desde dbeaver.io
-
-🐘 PostgreSQL: como motor de BBDD utilizado para este proyecto.
-
-🗃️ GitHub: para clonar el repositorio y explorar los archivos .sql.
+- 🛠️ **DBeaver**: cliente de gestión de bases de datos SQL. Puedes descargarlo desde [dbeaver.io](https://dbeaver.io/)
+- 🐘 **PostgreSQL**: motor de base de datos utilizado para ejecutar las consultas sobre la base de datos de películas.
+- 🗃️ **GitHub**: para clonar este repositorio y explorar los archivos `.sql` desde tu equipo.
 
 
 ## 🧠 Resultados y conclusiones
