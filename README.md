@@ -15,7 +15,7 @@
 
 ## 📝 Descripción 
 
-Este proyecto forma parte del Módulo 4 del Máster de Data Analytics. Consiste en la resolución de 64 consultas SQL sobre una base de datos relacional de alquiler de películas. A través de este proyecto se han puesto en práctica habilidades técnicas y analíticas en SQL.
+Este proyecto forma parte del Módulo 4 del Máster de Data Analytics. Consiste en la resolución de 64 consultas SQL sobre una BBDD relacional de alquiler de películas. A través de este proyecto se han puesto en práctica habilidades técnicas y analíticas en SQL.
 
 ## 🗂️ Estructura 
 
