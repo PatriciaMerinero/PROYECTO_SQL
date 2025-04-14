@@ -32,32 +32,31 @@ Para ejecutar y revisar este proyecto de forma local, se recomienda tener instal
 
 ## 🧠 Resultados y conclusiones
 
-**Habilidades SQL aplicadas**
+A lo largo del desarrollo de este proyecto se han aplicado una amplia variedad de técnicas y funcionalidades de SQL, que permiten extraer, transformar y analizar información de una base de datos relacional. Entre las habilidades más destacadas se encuentran:
 
-Selección de datos y condiciones (SELECT, WHERE, BETWEEN, IN, LIKE, NOT)
+- 🔍 **Selección de datos y condiciones:** `SELECT`, `WHERE`, `BETWEEN`, `IN`, `LIKE`, `NOT`
+- 📊 **Ordenación de resultados:** `ORDER BY`, `LIMIT`, `OFFSET`
+- 🧮 **Agregación y estadísticas:** `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`, `STDDEV`, `VARIANCE`
+- 🧱 **Agrupaciones avanzadas:** `GROUP BY`, `HAVING`
+- 🔄 **Subconsultas y filtros condicionales**
+- 🔗 **Uniones entre tablas:** `INNER JOIN`, `LEFT JOIN`, `CROSS JOIN`
+- 🧾 **Uso de `DISTINCT` y funciones de texto:** `CONCAT`, `UPPER`, `LOWER`
+- 📆 **Consultas basadas en fechas y duraciones**
+- 🛠️ **Creación de tablas temporales y vistas reutilizables**
 
-Ordenación (ORDER BY, LIMIT, OFFSET)
+---
 
-Agregación y estadísticas (COUNT, SUM, AVG, MIN, MAX, STDDEV, VARIANCE)
+## 🧩 Esquema de la Base de Datos
 
-Agrupaciones (GROUP BY, HAVING)
+La base de datos sobre la que se desarrollan las consultas incluye información sobre:
 
-Subconsultas y filtros condicionales
+🎬 Películas, 👥 Actores, 🛒 Clientes, 🏪 Tiendas, 🧾 Alquileres, 💳 Pagos, 🌍 Idiomas y 👔 Personal.
 
-Joins (INNER JOIN, LEFT JOIN, CROSS JOIN)
-
-Uso de DISTINCT y funciones de texto como CONCAT
-
-Consultas basadas en fechas y duraciones
-
-Creación de tablas temporales y vistas reutilizables
-
-**🧩 Esquema de la Base de Datos**
-
-📌 https://github.com/PatriciaMerinero/PROYECTO_SQL/blob/main/01.%20ESQUEMA%20DE%20LA%20BBDD.%20PROYECTO%20-%20public.png
+🔗 Puedes consultar el esquema completo aquí:  
+[📌 Ver esquema de la base de datos](https://github.com/PatriciaMerinero/PROYECTO_SQL/blob/main/01.%20ESQUEMA%20DE%20LA%20BBDD.%20PROYECTO%20-%20public.png)
 
 
-La base de datos incluye información sobre películas, actores, clientes, alquileres, pagos, idiomas, tiendas y personal.
+
 
 
 
