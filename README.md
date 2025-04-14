@@ -56,7 +56,8 @@ Creación de tablas temporales y vistas reutilizables
 
 **🧩 Esquema de la Base de Datos**
 
-📌 Ver esquema de la base de datos
+📌 https://github.com/PatriciaMerinero/PROYECTO_SQL/blob/main/01.%20ESQUEMA%20DE%20LA%20BBDD.%20PROYECTO%20-%20public.png
+
 
 La base de datos incluye información sobre películas, actores, clientes, alquileres, pagos, idiomas, tiendas y personal.
 
