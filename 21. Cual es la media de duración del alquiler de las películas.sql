@@ -1,0 +1,4 @@
+--¿CUAL ES LA MEDIA DE DURACIÓN DEL ALQUILER DE LAS PELÍCULAS? redondeo a días enteros
+
+SELECT  ROUND( AVG ("rental_duration"))AS "PROMEDIO DURACIÓN ALQUILER"
+FROM "film" AS f
