@@ -55,6 +55,22 @@ La base de datos sobre la que se desarrollan las consultas incluye información 
 🔗 Puedes consultar el esquema completo aquí:  
 [📌 Ver esquema de la base de datos](https://github.com/PatriciaMerinero/PROYECTO_SQL/blob/main/01.%20ESQUEMA%20DE%20LA%20BBDD.%20PROYECTO%20-%20public.png)
 
+## 🤝 Contribuciones
+
+Las contribuciones son bienvenidas.  
+Si deseas proponer mejoras, corregir errores o aportar nuevas ideas, puedes abrir una **issue** o enviar un **pull request**.
+
+¡Gracias por tu interés en este proyecto! 🤗
+
+## 👩‍💻 Autora y agradecimientos
+
+Este proyecto ha sido desarrollado por **Patricia Merinero** como parte del Módulo 4 del Máster en Data Analytics.
+
+Agradecimientos especiales a quienes han acompañado y apoyado este proceso de aprendizaje, y a la comunidad de datos por compartir tanto conocimiento. 🤍
+
+🤝 Inspirado en casos reales de análisis de bases de datos y pensado para seguir creciendo como profesional en el área de datos.
+
+
 
 
 
